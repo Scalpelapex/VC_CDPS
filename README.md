@@ -9,7 +9,7 @@ Lightweight triangular mesh model has great potential for real-time 3D visualiza
 ## Environment setup
 
 Clone the repo: 
-> [https://github.com/zhenguonie/VFCM-CHPS](https://github.com/Scalpelapex/A_Robust_Mesh_Reconstruciton)
+> https://github.com/Scalpelapex/A_Robust_Mesh_Reconstruciton
 
 Open this project with Visual Studio 2019 on Windows x64
 
